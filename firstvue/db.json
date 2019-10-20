@@ -1,0 +1,110 @@
+{
+  "ToDoList": [
+    {
+      "id": "1",
+      "title": "GroceryShopping",
+      "todos": [
+        {
+          "Name": "Apple",
+          "Selected": true
+        },
+        {
+          "Name": "Dal",
+          "Selected": false
+        },
+        {
+          "Name": "Mango",
+          "Selected": true
+        },
+        {
+          "Name": "Rice",
+          "Selected": false
+        },
+        {
+          "Name": "greps",
+          "Selected": false
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Movie To Watch",
+      "todos": [
+        {
+          "Name": "Avenger",
+          "Selected": false
+        },
+        {
+          "Name": "SpiderMan",
+          "Selected": false
+        },
+        {
+          "Name": "HarryPotter",
+          "Selected": true
+        },
+        {
+          "Name": "Shaho",
+          "Selected": false
+        },
+        {
+          "Name": "AngryBird",
+          "Selected": true
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Steps  To  Follow",
+      "todos": [
+        {
+          "Name": "Write Todo",
+          "Selected": false
+        },
+        {
+          "Name": "Save",
+          "Selected": false
+        },
+        {
+          "Name": "Update ",
+          "Selected": true
+        },
+        {
+          "Name": "Complete",
+          "Selected": true
+        },
+        {
+          "Name": "AngryBird",
+          "Selected": false
+        }
+      ]
+    },
+    {
+      "Name": "fdsf",
+      "id": "kNfIh5C"
+    },
+    {
+      "Name": "fdf",
+      "id": "bbckgdj"
+    },
+    {
+      "Name": "dsads",
+      "id": "Lpv4r61"
+    },
+    {
+      "Name": "gdfhf",
+      "id": "t6SD_-k"
+    },
+    {
+      "Name": "dfxcbvc",
+      "id": "-v05oUZ"
+    },
+    {
+      "Name": "gfdgdfg",
+      "id": "hvtKxXs"
+    },
+    {
+      "Name": "fdsfsd",
+      "id": "8lj9aaQ"
+    }
+  ]
+}
